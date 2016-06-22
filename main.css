@@ -26,6 +26,11 @@ h1 {
     font-family: Futura;
     text-transform: uppercase;
 }
+h3 {
+    font-size: 2em;
+    font-family: Futura;
+    text-transform: uppercase;
+}
 p {
     font-size: 1em;
     line-height: 1.4em;
