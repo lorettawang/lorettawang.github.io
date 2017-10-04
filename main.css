@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    height: 100%;
     background: #4E95E9; /* For browsers that do not support gradients */    
     background: -webkit-linear-gradient(left top, #C2EFC9, #4E95E9); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(bottom right, #C2EFC9, #4E95E9); /* For Opera 11.1 to 12.0 */
