@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 90%;
     height: 100%;
     background: #4E95E9; /* For browsers that do not support gradients */    
     background: -webkit-linear-gradient(left top, #C2EFC9, #4E95E9); /* For Safari 5.1 to 6.0 */
@@ -20,7 +20,7 @@ nav ul li, footer ul li {
     letter-spacing: 2px;    
     display: inline;
     margin-right: 20px;
-    padding: 15px;
+    padding: 10px;
 }
 a {
     font-family: 'Montserrat', sans-serif;
@@ -28,6 +28,9 @@ a {
     color: #FFFFFF;
     display: inline-block;
     padding: 15px;
+}
+a.links {
+    padding: 0px;  
 }
 a:hover {
     text-decoration: none;
@@ -82,7 +85,7 @@ p {
     height: 200px; 
     background: #1E3264;
     color: #C2EFC9;
-    padding: 10px;
+    padding: 5px;
 }
 ul {
     font-size: 1em;
@@ -111,9 +114,9 @@ ul.posts li {
 }
 
 .fa {
-    padding: 20px;
+    padding: 2px;
     font-size: 30px;
-    width: 30px;
+    width: 25px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
