@@ -87,6 +87,11 @@ p {
     color: #C2EFC9;
     padding: 5px;
 }
+@media only screen and (min-device-width: 400px) {
+.digital-image {
+    background-image: url('')
+    }
+}
 ul {
     font-size: 1em;
     line-height: 1.4em;
